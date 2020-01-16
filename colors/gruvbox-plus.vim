@@ -9,7 +9,7 @@ endif
 
 let g:colors_name = "gruvbox-plus"
 
-
+highlight cursor ctermfg=16 ctermbg=145 cterm=NONE 
 
 
 
