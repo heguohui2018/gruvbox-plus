@@ -1,3 +1,7 @@
+<p align="center"><img src="http://svgur.com/i/3Dp.svg"></p>
+
+gruvbox-plus 是受gruvbox启发，重新修改配色方法
+
 # gruvbox-plus
 
 ## gruvbox-plus主题介绍
